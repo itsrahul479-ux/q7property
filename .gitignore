@@ -1,0 +1,6 @@
+# Logs and system caches
+.system_generated/
+.tempmediaStorage/
+*.log
+logs/
+node_modules/
